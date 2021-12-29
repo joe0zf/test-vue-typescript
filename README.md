@@ -1,5 +1,5 @@
 # vue test
-
+![test-vue](https://res.cloudinary.com/juegos-cramer/image/upload/v1640749915/hotels-vue_auujh1.png)
 ## Project setup
 
 ```
